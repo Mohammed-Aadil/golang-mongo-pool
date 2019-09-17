@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Mohammed-Aadil/mongoPool/config/constants"
+	"github.com/Mohammed-Aadil/golang-mongo-pool/config/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
