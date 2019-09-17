@@ -59,7 +59,7 @@ This function return timeout duration of connection in pool.
 
 ## SetErrorOnBusy()
 
-If this function is called then if all connections are busy ``CreateConnection()` function will return `MongoPoolError`.
+If this function is called then if all connections are busy `CreateConnection()` function will return `MongoPoolError`.
 
 ## SetPoolSize(uint32, uint32)
 
