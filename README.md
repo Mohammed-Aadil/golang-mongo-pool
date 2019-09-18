@@ -1,6 +1,11 @@
 # golang-mongo-pool
 
 This repository is uploaded for academic learning of database pooling class. I have used official golang mongo-driver for mongodb.
+For installation please go to your GOPATH and enter the following command:
+
+```shell
+go get github.com/Mohammed-Aadil/golang-mongo-pool
+```
 
 For pooling following functions are required in class:
 
