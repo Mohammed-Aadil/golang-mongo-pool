@@ -74,3 +74,6 @@ This will resize mongo pool without affecting currently open connection. **This 
 ## TerminateConnection(*mongo.Client)
 
 This will terminate the connection and release same object from pool.
+
+## Contributors 
+    - [Hariom Vashisth](https://github.com/hariom282538)
