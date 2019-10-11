@@ -4,7 +4,8 @@ This repository is uploaded for academic learning of database pooling class. I h
 For installation please go to your GOPATH and enter the following command:
 
 ```shell
-go get github.com/Mohammed-Aadil/golang-mongo-pool
+go get github.com/Mohammed-Aadil/golang-mongo-pool/pool
+dep ensure --add github.com/Mohammed-Aadil/golang-mongo-pool/pool
 ```
 
 For pooling following functions are required in class:
