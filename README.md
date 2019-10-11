@@ -5,6 +5,7 @@ For installation please go to your GOPATH and enter the following command:
 
 ```shell
 go get github.com/Mohammed-Aadil/golang-mongo-pool/pool
+OR
 dep ensure --add github.com/Mohammed-Aadil/golang-mongo-pool/pool
 ```
 
